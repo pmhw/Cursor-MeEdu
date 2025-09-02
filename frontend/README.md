@@ -2,6 +2,12 @@
 
 基于 Vue3 + Element Plus 的前端界面，用于管理培训班学生的课时和收入记录。
 
+
+## 界面展示
+
+
+[](./png/7b0ae6df179e5d35440849f4ea19a23.png)
+
 ## 🚀 技术栈
 
 - **Vue 3** - 渐进式JavaScript框架
