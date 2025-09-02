@@ -4,7 +4,7 @@
 ## 演示图
 
 
-[../png/7b0ae6df179e5d35440849f4ea19a23.png](../png/7b0ae6df179e5d35440849f4ea19a23.png)
+![../png/7b0ae6df179e5d35440849f4ea19a23.png](../png/7b0ae6df179e5d35440849f4ea19a23.png)
 
 ## 📚 文档概览
 
