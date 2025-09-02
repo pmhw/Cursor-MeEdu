@@ -6,8 +6,7 @@
 
 ## 📋 文档列表
 
-
-[](./png/7b0ae6df179e5d35440849f4ea19a23.png)
+[](../png/7b0ae6df179e5d35440849f4ea19a23.png)
 
 ### 🚀 快速开始
 - **[SYSTEM_OVERVIEW.md](./SYSTEM_OVERVIEW.md)** - 系统概述和主要功能
