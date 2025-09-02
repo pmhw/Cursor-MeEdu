@@ -1,0 +1,69 @@
+# 依赖目录
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 运行时文件
+*.log
+logs
+*.pid
+*.seed
+*.pid.lock
+
+# 覆盖率目录
+coverage
+.nyc_output
+
+# 依赖锁定文件
+package-lock.json
+yarn.lock
+
+# 环境变量文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE文件
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# Git文件
+.git
+.gitignore
+
+# Docker文件
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# 文档文件
+README.md
+*.md
+
+# 测试文件
+test_*.js
+*.test.js
+*.spec.js
+
+# 临时文件
+tmp
+temp
+
+# 数据库文件（开发环境）
+*.db
+*.sqlite
+*.sqlite3
+
+# 前端构建文件
+frontend/dist
+frontend/build
